@@ -1,12 +1,12 @@
 # ToDoApp
 
-###Elixir Todo App (No Database):
+### Elixir Todo App (No Database):
 This is a simple Todo app built with Elixir. The todos are stored in a linked list  without using a database.
 
-###Requirements:
+### Requirements:
 Elixir/Erlang installed.
 
-###How to Run the App:
+### How to Run the App:
 Clone the repository and navigate to the /todo_app/ directory.
 
 ## Installation
