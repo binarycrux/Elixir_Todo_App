@@ -29,7 +29,7 @@ iex -S mix
 
 Once the shell is launched, type the following command to start the app:
 ```elixir
-TodoApp.start
+ToDoApp.TaskManager.start
 ```
 The app will allow you to add, list, remove and update status of  todos, all stored in memory.
 
