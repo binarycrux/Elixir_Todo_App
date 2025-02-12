@@ -1,6 +1,13 @@
 # ToDoApp
 
-**TODO: Add description**
+Elixir Todo App (No Database):
+This is a simple Todo app built with Elixir. The todos are stored in a linked list  without using a database.
+
+Requirements:
+Elixir/Erlang installed.
+
+How to Run the App:
+Clone the repository and navigate to the /todo_app/ directory.
 
 ## Installation
 
@@ -15,7 +22,16 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/to_do_app>.
+Start an interactive Elixir shell by running:
+
+iex -S mix
+
+Once the shell is launched, type the following command to start the app:
+
+TodoApp.start
+
+The app will allow you to add, list, remove and update status of  todos, all stored in memory.
+
+Happy Coding!
+Author: BinaryCrux
 

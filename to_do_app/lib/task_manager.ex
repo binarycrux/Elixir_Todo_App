@@ -1,4 +1,4 @@
-defmodule ToDoApp.ToDoErrorHandled do
+defmodule ToDoApp.TaskManager do
 # alias Todo
   def start do
     # Starting with an empty list of tasks
